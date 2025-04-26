@@ -1,8 +1,4 @@
 <p align="center">
-
-</p>
-
-<p align="center">
   <img src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="Logo da DIO" width="150">
 </p>
 
@@ -14,13 +10,13 @@
 
 <p align="center">
   <a href="https://github.com/PedroThiago02/dio-lab-open-source/stargazers">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/PedroThiago02/dio-lab-open-source?style=social">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social">
   </a>
   <a href="https://github.com/PedroThiago02/dio-lab-open-source/network/members">
-    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/PedroThiago02/dio-lab-open-source?style=social">
+    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social">
   </a>
   <a href="https://github.com/PedroThiago02/dio-lab-open-source/issues">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/PedroThiago02/dio-lab-open-source">
+    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source">
   </a>
 </p>
 
