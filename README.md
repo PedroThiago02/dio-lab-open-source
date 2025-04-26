@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/M1IlA0d.png" alt="Banner Lab Open Source" width="100%">
+
 </p>
 
 <p align="center">
