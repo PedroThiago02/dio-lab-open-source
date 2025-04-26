@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hermes.dio.me/tracks/f0b12c4c-5efc-4b92-a079-52d83d8b6d56.png" alt="Logo da DIO" width="150">
+  <img src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="Logo da DIO" width="150">
 </p>
 
 <h1 align="center">DIO - Lab Open Source</h1>
